@@ -6,7 +6,7 @@
       "description": "Text prompt based MIDI generation contextual continuation and music theory explanation. MIDI transferred as base64 encoded Standard MIDI file strings in midiFileB64 fields."
     },
     "servers": [
-      { "url": "https://api.example.com/v1" }
+      { "url": "https://cai-creative.github.io/cai-api-docs/" }
     ],
     "paths": {
       "/generate": {
